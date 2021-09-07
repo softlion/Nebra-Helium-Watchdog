@@ -5,7 +5,7 @@ If watchdog is useful for you, feel free to dip some HNT. <br>
 14faPbrrcdhNSG2EXiGuox4qkfcWNJmHmYYeSA8s8MvYcAeSxEE<br>
 
   This document describes how to keep an eye of your Nebra miner.<br>
-  Basically it uses hardware (I used Raspberri Pi 3 model B) and operating system where you can run nodejs (You can run it on windows machine also but it needs to be on site 24/7 and running. Video how to use that with PC is here: https://youtu.be/3Tx1FMRcj44 ). Program checks cyclically if miner UI works and takes data from your miner to analyze if everything is okay. Notification is done via Telegram app (IOS and Android). <br>Here is example: <br>
+  Basically it uses hardware (I used Raspberri Pi 3 model B) and operating system where you can run nodejs (You can run it on windows machine also but it needs to be on site 24/7 and running. Video how to use that with PC is here: https://youtu.be/H8iyiYbm3oQ ). Program checks cyclically if miner UI works and takes data from your miner to analyze if everything is okay. Notification is done via Telegram app (IOS and Android). <br>Here is example: <br>
 ![image](https://user-images.githubusercontent.com/90242002/132312920-946ac422-9b8c-4180-b135-c6a88c61ae07.png) <br>
 
 You will get four type of notifications:
